@@ -1,0 +1,275 @@
+{
+    "shape": [
+        {
+            "label": "pig",
+            "boxes": [
+                259,
+                55,
+                406,
+                260
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                303,
+                100,
+                492,
+                318
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                340,
+                245,
+                549,
+                505
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                267,
+                350,
+                367,
+                640
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                257,
+                600,
+                416,
+                905
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                243,
+                905,
+                448,
+                1068
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                414,
+                939,
+                721,
+                1044
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                554,
+                677,
+                765,
+                963
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1104,
+                886,
+                1293,
+                1015
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1267,
+                835,
+                1422,
+                932
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1315,
+                776,
+                1439,
+                900
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1443,
+                793,
+                1538,
+                899
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1285,
+                584,
+                1431,
+                774
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1128,
+                569,
+                1318,
+                727
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                903,
+                529,
+                1153,
+                707
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1072,
+                436,
+                1273,
+                573
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1109,
+                357,
+                1351,
+                457
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1461,
+                654,
+                1531,
+                797
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1453,
+                536,
+                1540,
+                677
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1439,
+                489,
+                1531,
+                610
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1427,
+                373,
+                1528,
+                500
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1477,
+                432,
+                1526,
+                538
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1473,
+                272,
+                1546,
+                406
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1320,
+                197,
+                1457,
+                300
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                1057,
+                136,
+                1257,
+                241
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                938,
+                95,
+                1187,
+                229
+            ],
+            "points": null
+        },
+        {
+            "label": "pig",
+            "boxes": [
+                570,
+                43,
+                865,
+                167
+            ],
+            "points": null
+        }
+    ],
+    "imagePath": "pig_5_4290.jpg"
+}

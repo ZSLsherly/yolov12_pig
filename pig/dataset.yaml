@@ -1,0 +1,4 @@
+train: D:\study\dataset\pig\images\train
+val: D:\study\dataset\pig\images\val
+nc: 1  # 修改为你的类别数
+names: ['pig']  # 修改为你的类别名称

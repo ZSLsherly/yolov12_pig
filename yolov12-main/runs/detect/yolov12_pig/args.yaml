@@ -15,7 +15,7 @@ cache: false
 device: cuda
 workers: 0
 project: null
-name: yolov12_pig
+name: yolov12_pig2
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -105,4 +105,4 @@ erasing: 0.4
 crop_fraction: 1.0
 cfg: null
 tracker: botsort.yaml
-save_dir: runs\detect\yolov12_pig
+save_dir: runs\detect\yolov12_pig2

@@ -1,16 +1,16 @@
-# 智能养殖视觉检测系统
+# Intelligent Aquaculture Visual Inspection System
 
-本项目为双创课程设计的猪只健康监测视觉检测系统，基于YOLOv12实现高效目标检测。
+This project is a pig health monitoring visual inspection system designed for entrepreneurship and innovation courses, based on YOLOv12 to achieve efficient object detection.
 
-## 📌 项目概述
+## 📌 Project Overview
 
-- **核心功能**：通过摄像头实时检测养殖场猪只行为与体态特征
-- **技术栈**：YOLOv12
-- **应用场景**：养殖场健康监测、异常行为预警
+- **Core Function**: Real-time detection of pig behavior and body characteristics on the farm through cameras.
+- **Technology Stack**: YOLOv12
+- **Application Scenario**: Health monitoring and abnormal behavior warning in breeding farms.
 
-## 🛠️ 快速开始
+## 🛠️ Quick Start
 
-### 环境配置
+### Environment Configuration
 ```bash
 conda create -n pigdetect python=3.9
 conda activate pigdetect
